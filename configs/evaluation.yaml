@@ -1,0 +1,6 @@
+metrics:
+  - accuracy
+  - precision
+  - recall
+thresholds:
+  min_accuracy: 0.60

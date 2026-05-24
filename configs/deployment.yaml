@@ -1,0 +1,7 @@
+api:
+  host: "0.0.0.0"
+  port: 8080
+model:
+  path: "data/models/latest_model.bin"
+logging:
+  level: "INFO"

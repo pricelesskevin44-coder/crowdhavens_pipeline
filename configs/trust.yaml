@@ -1,0 +1,6 @@
+trust_thresholds:
+  min_confidence: 0.50
+  min_accuracy: 0.60
+weights:
+  accuracy_weight: 0.7
+  confidence_weight: 0.3
